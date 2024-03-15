@@ -1,6 +1,5 @@
 #!/usr/bin/env python3
 
-#Weerakorn Sinlapawongsathorn G01471818
 import sys
 
 #given e = 5 and n = 10142789312725007 public key
